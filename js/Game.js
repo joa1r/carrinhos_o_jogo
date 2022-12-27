@@ -440,3 +440,4 @@ class Game {
   }
   
 }
+scale
